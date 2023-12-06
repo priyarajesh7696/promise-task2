@@ -1,1 +1,1 @@
-hi, in this task i taken three API data from the server and use it
+hi, in this task I Retrive API data from the server and use it
